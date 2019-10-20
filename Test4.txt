@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-firstbranch first file, modified in first branch
-=======
-firstbranch first file, modified in firstbranch
->>>>>>> firstbranch
