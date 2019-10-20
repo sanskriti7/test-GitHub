@@ -1,2 +1,1 @@
-firstbranch second file
-, modified in firstbranch
+firstbranch second file, modified in firstbranch
